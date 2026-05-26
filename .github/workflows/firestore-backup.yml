@@ -45,9 +45,20 @@ jobs:
           for (const col of collections) {
             const snapshot = await col.get();
             const data = {};
+            
             snapshot.forEach(doc => {
-              data[doc.id] = doc.data();
+              let docData = doc.data();
+
+              // 🔒 Protection spécifique pour ton document secrets
+              if (col.id === 'config' && doc.id === 'secrets') {
+                if (docData.github_token) {
+                  docData.github_token = "[REDACTED_GITHUB_TOKEN]";
+                }
+              }
+
+              data[doc.id] = docData;
             });
+
             fs.writeFileSync(
               path.join(backupDir, `${col.id}.json`),
               JSON.stringify(data, null, 2)
