@@ -1,0 +1,73 @@
+name: Firestore Nightly Backup
+
+on:
+  schedule:
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Installer firebase-admin
+        run: npm install firebase-admin
+
+      - name: Créer le script d'export
+        run: |
+          cat > export.mjs << 'EOF'
+          import admin from 'firebase-admin';
+          import fs from 'fs';
+          import path from 'path';
+
+          const serviceAccount = JSON.parse(process.env.GCP_SA_KEY);
+
+          admin.initializeApp({
+            credential: admin.credential.cert(serviceAccount)
+          });
+
+          const db = admin.firestore();
+          const date = new Date().toISOString().split('T')[0];
+          const backupDir = `backups/${date}`;
+
+          fs.mkdirSync(backupDir, { recursive: true });
+
+          const collections = await db.listCollections();
+
+          for (const col of collections) {
+            const snapshot = await col.get();
+            const data = {};
+            snapshot.forEach(doc => {
+              data[doc.id] = doc.data();
+            });
+            fs.writeFileSync(
+              path.join(backupDir, `${col.id}.json`),
+              JSON.stringify(data, null, 2)
+            );
+            console.log(`✅ Collection sauvegardée : ${col.id}`);
+          }
+
+          console.log(`\n🎉 Backup terminé dans ${backupDir}`);
+          EOF
+
+      - name: Lancer l'export
+        env:
+          GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
+        run: node export.mjs
+
+      - name: Commit et push
+        run: |
+          DATE=$(date +'%Y-%m-%d')
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add backups/
+          git commit -m "🗄️ Backup Firestore du $DATE" || echo "Rien à commiter"
+          git push
