@@ -45,8 +45,10 @@ jobs:
           for (const col of collections) {
             const snapshot = await col.get();
             const data = {};
+            let docCount = 0; // Initialisation du compteur de lectures pour cette collection
             
             snapshot.forEach(doc => {
+              docCount++; // On incrémente pour chaque document lu
               let docData = doc.data();
 
               // 🔒 Protection spécifique pour ton document secrets
@@ -63,7 +65,8 @@ jobs:
               path.join(backupDir, `${col.id}.json`),
               JSON.stringify(data, null, 2)
             );
-            console.log(`✅ Collection sauvegardée : ${col.id}`);
+            // Log clair avec le nombre exact de documents lus (1 doc = 1 lecture du quota)
+            console.log(`✅ Collection sauvegardée : ${col.id} (${docCount} documents lus)`);
           }
 
           console.log(`\n🎉 Backup terminé dans ${backupDir}`);
