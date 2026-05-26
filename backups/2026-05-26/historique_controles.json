@@ -1,0 +1,38 @@
+{
+  "HGY90V7KkCTrH5l9xWDu": {
+    "empId": "ETKI.0040201",
+    "kitId": "Z27603 OCC1_K22 00990727",
+    "nom_du_kit": "Kit grille d'air extérieur",
+    "engin": "Z27603 OCC1",
+    "code_kit": "K22 00990727",
+    "code_contenant": "052080000001351915",
+    "statut": "Conforme",
+    "verificateur_email": "michael.frischherz@sncf.fr",
+    "timestamp": "2026-05-26T09:36:54.421Z",
+    "detail_verification": [
+      {
+        "nom": "KIT M AGC GAEXT",
+        "quantite_requise": 1,
+        "quantite_comptee": 1
+      }
+    ]
+  },
+  "QgR7gEEJmegZlkENVkzs": {
+    "empId": "ETKI.0060201",
+    "kitId": "B82551 4C TRANSILIEN1 (2e série)_K22 00990648",
+    "nom_du_kit": "KIT TRAIT MEC PORTE SIMPLE",
+    "engin": "B82551 4C TRANSILIEN1 (2e série)",
+    "code_kit": "K22 00990648",
+    "code_contenant": "052080000001143611",
+    "statut": "Incomplet",
+    "verificateur_email": "michael.frischherz@sncf.fr",
+    "timestamp": "2026-05-26T09:37:15.655Z",
+    "detail_verification": [
+      {
+        "nom": "KIT M AGC TR MEC PORTES SIMPLE",
+        "quantite_requise": 1,
+        "quantite_comptee": 0
+      }
+    ]
+  }
+}
