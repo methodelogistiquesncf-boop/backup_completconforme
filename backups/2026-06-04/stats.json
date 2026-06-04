@@ -1,0 +1,37 @@
+{
+  "kpi": {
+    "incomplets": 11,
+    "total": 23,
+    "conformes": 12,
+    "par_semaine": {
+      "2026-W22": {
+        "incomplets": 11,
+        "total": 21,
+        "conformes": 10
+      },
+      "2026-W23": {
+        "incomplets": 0,
+        "total": 2,
+        "conformes": 2
+      }
+    },
+    "par_engin": {
+      "X76673 BFC3": {
+        "total": 3,
+        "conformes": 2
+      },
+      "mikkkkegin": {
+        "total": 1,
+        "conformes": 0
+      },
+      "B82551 4C TRANSILIEN1 (2e série)": {
+        "total": 6,
+        "conformes": 3
+      },
+      "Z27603 OCC1": {
+        "total": 13,
+        "conformes": 7
+      }
+    }
+  }
+}
