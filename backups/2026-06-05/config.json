@@ -1,0 +1,57 @@
+{
+  "acces_modules": {
+    "christophe.ether@sncf.fr": {
+      "stats": true,
+      "historique": true,
+      "terrain": true,
+      "reprises": true,
+      "admin": false,
+      "import": true
+    },
+    "michael.frischherz@sncf.fr": {
+      "stats": true,
+      "terrain": true,
+      "historique": true,
+      "import": true,
+      "reprises": true,
+      "admin": true
+    },
+    "cyrille.defix@sncf.fr": {
+      "admin": true,
+      "reprises": true,
+      "historique": true,
+      "terrain": true,
+      "stats": true,
+      "import": true
+    },
+    "ami.kane@sncf.fr": {
+      "admin": false,
+      "stats": true,
+      "historique": true,
+      "terrain": true,
+      "reprises": true,
+      "import": true
+    },
+    "frederic.perrot2@sncf.fr": {
+      "reprises": true,
+      "stats": true,
+      "historique": true,
+      "terrain": true,
+      "admin": true,
+      "import": true
+    },
+    "vincent.torterat@sncf.fr": {
+      "stats": true,
+      "historique": true,
+      "terrain": true,
+      "reprises": true,
+      "admin": false,
+      "import": true
+    }
+  },
+  "secrets": {
+    "github_token": "[REDACTED_GITHUB_TOKEN]",
+    "token_mis_a_jour_le": "2026-05-19T19:05:18.234Z",
+    "token_mis_a_jour_par": "michael.frischherz@sncf.fr"
+  }
+}
