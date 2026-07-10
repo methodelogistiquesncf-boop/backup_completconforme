@@ -1,0 +1,54 @@
+{
+  "kpi": {
+    "incomplets": 13,
+    "total": 29,
+    "conformes": 16,
+    "par_semaine": {
+      "2026-W22": {
+        "incomplets": 11,
+        "total": 21,
+        "conformes": 10
+      },
+      "2026-W23": {
+        "incomplets": 1,
+        "total": 6,
+        "conformes": 5
+      },
+      "2026-W24": {
+        "incomplets": 1,
+        "total": 2,
+        "conformes": 1
+      }
+    },
+    "par_engin": {
+      "X76673 BFC3": {
+        "total": 3,
+        "conformes": 2
+      },
+      "mikkkkegin": {
+        "total": 1,
+        "conformes": 0
+      },
+      "B82551 4C TRANSILIEN1 (2e série)": {
+        "conformes": 3,
+        "total": 7
+      },
+      "X76653 4C GE2": {
+        "total": 1,
+        "conformes": 1
+      },
+      "Z27567 4C CVDL2": {
+        "total": 1,
+        "conformes": 1
+      },
+      "Z27609 4C OCC3": {
+        "total": 1,
+        "conformes": 0
+      },
+      "Z27603 OCC1": {
+        "total": 15,
+        "conformes": 9
+      }
+    }
+  }
+}
