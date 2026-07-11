@@ -1,0 +1,817 @@
+{
+  "5rTaYicD3afXnW6BiBkl": {
+    "empId": "ETKI.0040201",
+    "kitId": "Z27603 OCC1_K22 00990727",
+    "nom_du_kit": "Kit grille d'air extérieur",
+    "engin": "Z27603 OCC1",
+    "code_kit": "K22 00990727",
+    "code_contenant": "052080000001351915",
+    "statut": "Conforme",
+    "observation": "CECI EST UN TEST SUR LES OBSERVAITON DANS LA PAGE DETAIL DU KIT",
+    "verificateur_email": "michael.frischherz@sncf.fr",
+    "timestamp": "2026-05-27T12:18:37.655Z",
+    "detail_verification": [
+      {
+        "nom": "KIT M AGC GAEXT",
+        "code_piece": "00990727",
+        "quantite_requise": 1,
+        "quantite_comptee": 1
+      }
+    ]
+  },
+  "7g1mOAr6MOuD6pSkQYT0": {
+    "empId": "ETKI.0070301",
+    "kitId": "B82551 4C TRANSILIEN1 (2e série)_K21 00990648",
+    "nom_du_kit": "KIT TRAIT MEC PORTE SIMPLE",
+    "engin": "B82551 4C TRANSILIEN1 (2e série)",
+    "code_kit": "K21 00990648",
+    "code_contenant": "052080000001119603",
+    "statut": "Conforme",
+    "observation": "Je fais ce test avec mon téléphone.",
+    "verificateur_email": "michael.frischherz@sncf.fr",
+    "timestamp": "2026-05-27T20:04:50.815Z",
+    "detail_verification": [
+      {
+        "nom": "KIT M AGC TR MEC PORTES SIMPLE",
+        "code_piece": "00990648",
+        "quantite_requise": 1,
+        "quantite_comptee": 1
+      }
+    ]
+  },
+  "8MOGKcfHd9sAmpoYuwwh": {
+    "empId": "ETKI.0040201",
+    "kitId": "Z27603 OCC1_K22 00990727",
+    "nom_du_kit": "Kit grille d'air extérieur",
+    "engin": "Z27603 OCC1",
+    "code_kit": "K22 00990727",
+    "code_contenant": "052080000001351915",
+    "statut": "Incomplet",
+    "observation": "CECI EST UN TEST SUR LES OBSERVAITON DANS LA PAGE DETAIL DU KIT",
+    "verificateur_email": "michael.frischherz@sncf.fr",
+    "timestamp": "2026-05-27T18:16:56.498Z",
+    "detail_verification": [
+      {
+        "nom": "KIT M AGC GAEXT",
+        "code_piece": "00990727",
+        "quantite_requise": 1,
+        "quantite_comptee": null
+      }
+    ],
+    "reprise_date": "2026-06-04T08:11:31.506Z",
+    "reprise_close": true
+  },
+  "Ajktn2nvwdo7Gswcr0R5": {
+    "empId": "ETKI.0120301",
+    "kitId": "X76673 BFC3_K21 00990648",
+    "nom_du_kit": "Kit traitement mécanisme de porte simple",
+    "engin": "X76673 BFC3",
+    "code_kit": "K21 00990648",
+    "code_contenant": "052080000001226268",
+    "statut": "Incomplet",
+    "verificateur_email": "michael.frischherz@sncf.fr",
+    "timestamp": "2026-05-27T08:12:58.210Z",
+    "detail_verification": [
+      {
+        "nom": "KIT M AGC TR MEC PORTES SIMPLE",
+        "code_piece": "00990648",
+        "quantite_requise": 1,
+        "quantite_comptee": 0
+      }
+    ]
+  },
+  "BBsj73T83z4IBD1YmExW": {
+    "empId": "ETKI.0070201",
+    "kitId": "Z27603 OCC1_K22OPMV04",
+    "nom_du_kit": "Kit jointage 3e phare",
+    "engin": "Z27603 OCC1",
+    "code_kit": "K22OPMV04",
+    "code_contenant": "052080000001295150",
+    "statut": "Incomplet",
+    "verificateur_email": "michael.frischherz@sncf.fr",
+    "timestamp": "2026-05-26T19:32:55.481Z",
+    "detail_verification": [
+      {
+        "nom": "NETTOYANT/DEGRAISSANT     -PDG",
+        "code_piece": "02130014",
+        "quantite_requise": 1,
+        "quantite_comptee": 0
+      },
+      {
+        "nom": "MASTIC MSP BICOMPO 2X200ML-PDG",
+        "code_piece": "02130044",
+        "quantite_requise": 1,
+        "quantite_comptee": 0
+      }
+    ]
+  },
+  "CoOwOeIp8icCbheMJK3q": {
+    "empId": "ETKI.0040201",
+    "kitId": "Z27603 OCC1_K22 00990727",
+    "nom_du_kit": "Kit grille d'air extérieur",
+    "engin": "Z27603 OCC1",
+    "code_kit": "K22 00990727",
+    "code_contenant": "052080000001351915",
+    "statut": "Conforme",
+    "observation": "CECI EST UN TEST SUR LES OBSERVAITON DANS LA PAGE DETAIL DU KIT",
+    "verificateur_email": "christophe.ether@sncf.fr",
+    "timestamp": "2026-06-04T08:34:54.294Z",
+    "detail_verification": [
+      {
+        "nom": "KIT M AGC GAEXT",
+        "code_piece": "00990727",
+        "quantite_requise": 1,
+        "quantite_comptee": 1
+      }
+    ]
+  },
+  "FrqUFjC6uLAUrjEuyRRO": {
+    "empId": "ETKI.0040201",
+    "kitId": "Z27603 OCC1_K22 00990727",
+    "nom_du_kit": "Kit grille d'air extérieur",
+    "engin": "Z27603 OCC1",
+    "code_kit": "K22 00990727",
+    "code_contenant": "052080000001351915",
+    "statut": "Conforme",
+    "observation": "CECI EST UN TEST SUR LES OBSERVAITON DANS LA PAGE DETAIL DU KIT",
+    "verificateur_email": "michael.frischherz@sncf.fr",
+    "timestamp": "2026-06-05T08:07:47.975Z",
+    "detail_verification": [
+      {
+        "nom": "KIT M AGC GAEXT",
+        "code_piece": "00990727",
+        "quantite_requise": 1,
+        "quantite_comptee": 1
+      }
+    ]
+  },
+  "GbZnMu6LMCq1ORFCnTy9": {
+    "empId": "ETKI.0060201",
+    "kitId": "B82551 4C TRANSILIEN1 (2e série)_K22 00990648",
+    "nom_du_kit": "KIT TRAIT MEC PORTE SIMPLE",
+    "engin": "B82551 4C TRANSILIEN1 (2e série)",
+    "code_kit": "K22 00990648",
+    "code_contenant": "052080000001143611",
+    "statut": "Incomplet",
+    "observation": "",
+    "verificateur_email": "michael.frischherz@sncf.fr",
+    "timestamp": "2026-05-27T17:28:48.986Z",
+    "detail_verification": [
+      {
+        "nom": "KIT M AGC TR MEC PORTES SIMPLE",
+        "code_piece": "00990648",
+        "quantite_requise": 1,
+        "quantite_comptee": 0
+      }
+    ]
+  },
+  "KOUmUVhfFgjvI28gEMRe": {
+    "empId": "ETKI.0060201",
+    "kitId": "B82551 4C TRANSILIEN1 (2e série)_K22 00990648",
+    "nom_du_kit": "KIT TRAIT MEC PORTE SIMPLE",
+    "engin": "B82551 4C TRANSILIEN1 (2e série)",
+    "code_kit": "K22 00990648",
+    "code_contenant": "052080000001143611",
+    "statut": "Conforme",
+    "verificateur_email": "michael.frischherz@sncf.fr",
+    "timestamp": "2026-05-26T19:32:47.384Z",
+    "detail_verification": [
+      {
+        "nom": "KIT M AGC TR MEC PORTES SIMPLE",
+        "code_piece": "00990648",
+        "quantite_requise": 1,
+        "quantite_comptee": 1
+      }
+    ]
+  },
+  "L3BRwYalpwlQYWExXFbR": {
+    "empId": "ETKI.0090306",
+    "kitId": "X76673 BFC3_K21 00990647",
+    "nom_du_kit": "KIT TR MEC PORTES INTER",
+    "engin": "X76673 BFC3",
+    "code_kit": "K21 00990647",
+    "code_contenant": "052080000001240693",
+    "statut": "Conforme",
+    "verificateur_email": "michael.frischherz@sncf.fr",
+    "timestamp": "2026-05-26T19:36:30.832Z",
+    "detail_verification": [
+      {
+        "nom": "KIT M AGC TR MEC PORTES INTER",
+        "code_piece": "00990647",
+        "quantite_requise": 1,
+        "quantite_comptee": 1
+      }
+    ]
+  },
+  "M7Xl7bpnh4zr7WEJLPIt": {
+    "empId": "ETKI.0100201",
+    "kitId": "Z27603 OCC1_K22OPMV135",
+    "nom_du_kit": "Kit traitement vitre frontale",
+    "engin": "Z27603 OCC1",
+    "code_kit": "K22OPMV135",
+    "code_contenant": "052080000001270898",
+    "statut": "Conforme",
+    "verificateur_email": "michael.frischherz@sncf.fr",
+    "timestamp": "2026-05-26T19:33:04.176Z",
+    "detail_verification": [
+      {
+        "nom": "MASTIC POLYURETHANE + BOOS-PDG",
+        "code_piece": "02130012",
+        "quantite_requise": 6,
+        "quantite_comptee": 6
+      }
+    ]
+  },
+  "MnUeYbbwMr0QIAE2zO6R": {
+    "empId": "ETKI.0130303",
+    "kitId": "Z27603 OCC1_K22OPMV501",
+    "nom_du_kit": "KIT DEPORT GRAISSEUR PALIER",
+    "engin": "Z27603 OCC1",
+    "code_kit": "K22OPMV501",
+    "code_contenant": "052080000001360351",
+    "statut": "Conforme",
+    "observation": "",
+    "verificateur_email": "michael.frischherz@sncf.fr",
+    "timestamp": "2026-05-28T07:44:09.431Z",
+    "detail_verification": [
+      {
+        "nom": "VIS H, M6X20 - A2-70",
+        "code_piece": "01630575",
+        "quantite_requise": 2,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "RACCORD A BAGUE UDCI 08",
+        "code_piece": "01800334",
+        "quantite_requise": 1,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "RACCORD UM",
+        "code_piece": "01800335",
+        "quantite_requise": 1,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "RONDELLE CS 14-30-2,4 INOX A2",
+        "code_piece": "01890218",
+        "quantite_requise": 2,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "FLEXIBLE 500 MM",
+        "code_piece": "01920234",
+        "quantite_requise": 1,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "GRAISSEUR A BEC M10X100",
+        "code_piece": "03750001",
+        "quantite_requise": 1,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "SUPPORT DE GRAISSEUR",
+        "code_piece": "04820551",
+        "quantite_requise": 1,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "ECROU H FR M6  -  A2-70 FP6",
+        "code_piece": "71674967",
+        "quantite_requise": 2,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "RONDELLE CS 6-12-1,2 INOX",
+        "code_piece": "71897500",
+        "quantite_requise": 4,
+        "quantite_comptee": null
+      }
+    ]
+  },
+  "OJClHWgk993GuzLsopBu": {
+    "empId": "ETKI.0130303",
+    "kitId": "Z27603 OCC1_K22OPMV501",
+    "nom_du_kit": "KIT DEPORT GRAISSEUR PALIER",
+    "engin": "Z27603 OCC1",
+    "code_kit": "K22OPMV501",
+    "code_contenant": "052080000001360351",
+    "statut": "Conforme",
+    "observation": "Tfhgfnggh'gngfngfyjg'",
+    "verificateur_email": "michael.frischherz@sncf.fr",
+    "timestamp": "2026-05-28T07:44:46.008Z",
+    "detail_verification": [
+      {
+        "nom": "VIS H, M6X20 - A2-70",
+        "code_piece": "01630575",
+        "quantite_requise": 2,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "RACCORD A BAGUE UDCI 08",
+        "code_piece": "01800334",
+        "quantite_requise": 1,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "RACCORD UM",
+        "code_piece": "01800335",
+        "quantite_requise": 1,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "RONDELLE CS 14-30-2,4 INOX A2",
+        "code_piece": "01890218",
+        "quantite_requise": 2,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "FLEXIBLE 500 MM",
+        "code_piece": "01920234",
+        "quantite_requise": 1,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "GRAISSEUR A BEC M10X100",
+        "code_piece": "03750001",
+        "quantite_requise": 1,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "SUPPORT DE GRAISSEUR",
+        "code_piece": "04820551",
+        "quantite_requise": 1,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "ECROU H FR M6  -  A2-70 FP6",
+        "code_piece": "71674967",
+        "quantite_requise": 2,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "RONDELLE CS 6-12-1,2 INOX",
+        "code_piece": "71897500",
+        "quantite_requise": 4,
+        "quantite_comptee": null
+      }
+    ]
+  },
+  "RCGFySrEqcz45J2vgIxb": {
+    "empId": "ETKI.0040201",
+    "kitId": "Z27603 OCC1_K22 00990727",
+    "nom_du_kit": "Kit grille d'air extérieur",
+    "engin": "Z27603 OCC1",
+    "code_kit": "K22 00990727",
+    "code_contenant": "052080000001351915",
+    "statut": "Incomplet",
+    "observation": "CECI EST UN TEST SUR LES OBSERVAITON DANS LA PAGE DETAIL DU KITgegrgegregrgrgreggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg",
+    "verificateur_email": "michael.frischherz@sncf.fr",
+    "timestamp": "2026-05-27T17:29:23.609Z",
+    "detail_verification": [
+      {
+        "nom": "KIT M AGC GAEXT",
+        "code_piece": "00990727",
+        "quantite_requise": 1,
+        "quantite_comptee": 2
+      }
+    ],
+    "reprise_date": "2026-06-05T08:08:34.537Z",
+    "reprise_close": true
+  },
+  "SOZH1mGkiCzYepndEQnu": {
+    "empId": "ETKI.0120301",
+    "kitId": "X76673 BFC3_K21 00990648",
+    "nom_du_kit": "Kit traitement mécanisme de porte simple",
+    "engin": "X76673 BFC3",
+    "code_kit": "K21 00990648",
+    "code_contenant": "052080000001226268",
+    "statut": "Conforme",
+    "verificateur_email": "michael.frischherz@sncf.fr",
+    "timestamp": "2026-05-27T08:18:58.084Z",
+    "detail_verification": [
+      {
+        "nom": "KIT M AGC TR MEC PORTES SIMPLE",
+        "code_piece": "00990648",
+        "quantite_requise": 1,
+        "quantite_comptee": 1
+      }
+    ]
+  },
+  "VYVT8hYa5PwPCyZcC6jQ": {
+    "empId": "ETKI.0120301",
+    "kitId": "Z27603 OCC1_K21 00990623",
+    "nom_du_kit": "Kit pose fenêtre cabine",
+    "engin": "Z27603 OCC1",
+    "code_kit": "K21 00990623",
+    "code_contenant": "052080000001344681",
+    "statut": "Conforme",
+    "observation": "",
+    "verificateur_email": "michael.frischherz@sncf.fr",
+    "timestamp": "2026-06-09T06:24:32.662Z",
+    "detail_verification": [
+      {
+        "nom": "KIT M AGC POS FENETRES CAB",
+        "code_piece": "00990623",
+        "quantite_requise": 1,
+        "quantite_comptee": 1
+      }
+    ]
+  },
+  "WJdn19Z1hwHfDJdkZ7S1": {
+    "empId": "ETKI.0090503",
+    "kitId": "Z27567 4C CVDL2_K22 00990647",
+    "nom_du_kit": "KIT TRAIT MEC PORTES INTC",
+    "engin": "Z27567 4C CVDL2",
+    "code_kit": "K22 00990647",
+    "code_contenant": "052080000001325910",
+    "statut": "Conforme",
+    "observation": "",
+    "verificateur_email": "cyrille.defix@sncf.fr",
+    "timestamp": "2026-06-05T12:26:50.282Z",
+    "detail_verification": [
+      {
+        "nom": "KIT M AGC TR MEC PORTES INTER",
+        "code_piece": "00990647",
+        "quantite_requise": 1,
+        "quantite_comptee": null
+      }
+    ]
+  },
+  "X4mlqZFHoqtElDnILkSv": {
+    "empId": "ETKI.0040201",
+    "kitId": "Z27603 OCC1_K22 00990727",
+    "nom_du_kit": "Kit grille d'air extérieur",
+    "engin": "Z27603 OCC1",
+    "code_kit": "K22 00990727",
+    "code_contenant": "052080000001351915",
+    "statut": "Conforme",
+    "observation": "CECI EST UN TEST SUR LES OBSERVAITON DANS LA PAGE DETAIL DU KIT",
+    "verificateur_email": "michael.frischherz@sncf.fr",
+    "timestamp": "2026-06-04T08:11:09.046Z",
+    "detail_verification": [
+      {
+        "nom": "KIT M AGC GAEXT",
+        "code_piece": "00990727",
+        "quantite_requise": 1,
+        "quantite_comptee": 1
+      }
+    ]
+  },
+  "Xm0mvIsyck0QqFL7YkXW": {
+    "empId": "ETKI.0010101",
+    "kitId": "X76653 4C GE2_K22 00990603",
+    "nom_du_kit": "KIT TRAIT MODULE MCM CVS",
+    "engin": "X76653 4C GE2",
+    "code_kit": "K22 00990603",
+    "code_contenant": "052080000001329204",
+    "statut": "Conforme",
+    "observation": "",
+    "verificateur_email": "michael.frischherz@sncf.fr",
+    "timestamp": "2026-06-05T06:52:17.103Z",
+    "detail_verification": [
+      {
+        "nom": "KIT M AGC TR MOD MCM CVS",
+        "code_piece": "00990603",
+        "quantite_requise": 1,
+        "quantite_comptee": 1
+      }
+    ]
+  },
+  "ZFo0xnvFLfr6whasanf3": {
+    "empId": "ETKI.0070201",
+    "kitId": "Z27603 OCC1_K22OPMV04",
+    "nom_du_kit": "Kit jointage 3e phare",
+    "engin": "Z27603 OCC1",
+    "code_kit": "K22OPMV04",
+    "code_contenant": "052080000001295150",
+    "statut": "Incomplet",
+    "observation": "",
+    "verificateur_email": "michael.frischherz@sncf.fr",
+    "timestamp": "2026-05-27T17:29:59.377Z",
+    "detail_verification": [
+      {
+        "nom": "NETTOYANT/DEGRAISSANT     -PDG",
+        "code_piece": "02130014",
+        "quantite_requise": 1,
+        "quantite_comptee": 0
+      },
+      {
+        "nom": "MASTIC MSP BICOMPO 2X200ML-PDG",
+        "code_piece": "02130044",
+        "quantite_requise": 1,
+        "quantite_comptee": 0
+      }
+    ],
+    "reprise_date": "2026-06-04T08:51:04.528Z",
+    "reprise_close": true
+  },
+  "atkVqY2j2jNbwmQQaBpG": {
+    "empId": "ETKI.0040201",
+    "kitId": "Z27603 OCC1_K22 00990727",
+    "nom_du_kit": "Kit grille d'air extérieur",
+    "engin": "Z27603 OCC1",
+    "code_kit": "K22 00990727",
+    "code_contenant": "052080000001351915",
+    "statut": "Incomplet",
+    "observation": "CECI EST UN TEST SUR LES OBSERVAITON DANS LA PAGE DETAIL DU KITgegrgegregrgrgreggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg",
+    "verificateur_email": "michael.frischherz@sncf.fr",
+    "timestamp": "2026-05-27T17:17:05.348Z",
+    "detail_verification": [
+      {
+        "nom": "KIT M AGC GAEXT",
+        "code_piece": "00990727",
+        "quantite_requise": 1,
+        "quantite_comptee": null
+      }
+    ]
+  },
+  "d0FoZgUWShyP1hnsam8d": {
+    "empId": "ETKI.0040201",
+    "kitId": "Z27603 OCC1_K22 00990727",
+    "nom_du_kit": "Kit grille d'air extérieur",
+    "engin": "Z27603 OCC1",
+    "code_kit": "K22 00990727",
+    "code_contenant": "052080000001351915",
+    "statut": "Incomplet",
+    "observation": "CECI EST UN TEST SUR LES OBSERVAITON DANS LA PAGE DETAIL DU KITgegrgegregrgrgreggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg",
+    "verificateur_email": "michael.frischherz@sncf.fr",
+    "timestamp": "2026-05-27T17:29:10.569Z",
+    "detail_verification": [
+      {
+        "nom": "KIT M AGC GAEXT",
+        "code_piece": "00990727",
+        "quantite_requise": 1,
+        "quantite_comptee": 2
+      }
+    ]
+  },
+  "gRpdQcvWpsOX1CHmVg6h": {
+    "empId": "ETKI.0090603",
+    "kitId": "Z27609 4C OCC3_K21OPMV107PD",
+    "nom_du_kit": "KIT POSE ATTELAGE",
+    "engin": "Z27609 4C OCC3",
+    "code_kit": "K21OPMV107PD",
+    "code_contenant": "052080000001344504",
+    "statut": "Incomplet",
+    "observation": "",
+    "verificateur_email": "michael.frischherz@sncf.fr",
+    "timestamp": "2026-06-09T06:23:23.771Z",
+    "detail_verification": [
+      {
+        "nom": "VIS H M10X40  INOX  A2-70",
+        "code_piece": "01630601",
+        "quantite_requise": 8,
+        "quantite_comptee": 8
+      },
+      {
+        "nom": "RONDELLE PLATE L 10 - A2 200HV",
+        "code_piece": "01680468",
+        "quantite_requise": 8,
+        "quantite_comptee": 5
+      },
+      {
+        "nom": "COLLIER DE FIXATION 13/20",
+        "code_piece": "01930048",
+        "quantite_requise": 2,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "ECROU H FR  M10 A2-70 FP6",
+        "code_piece": "71674476",
+        "quantite_requise": 8,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "COLLIER SERRE CABLES 4,8X175",
+        "code_piece": "78475848",
+        "quantite_requise": 3,
+        "quantite_comptee": null
+      }
+    ]
+  },
+  "j9y96TYLwjXVLLrh8iaC": {
+    "empId": "ETKI.0070201",
+    "kitId": "Z27603 OCC1_K22OPMV04",
+    "nom_du_kit": "Kit jointage 3e phare",
+    "engin": "Z27603 OCC1",
+    "code_kit": "K22OPMV04",
+    "code_contenant": "052080000001295150",
+    "statut": "Conforme",
+    "verificateur_email": "michael.frischherz@sncf.fr",
+    "timestamp": "2026-05-26T19:37:11.792Z",
+    "detail_verification": [
+      {
+        "nom": "NETTOYANT/DEGRAISSANT     -PDG",
+        "code_piece": "02130014",
+        "quantite_requise": 1,
+        "quantite_comptee": 1
+      },
+      {
+        "nom": "MASTIC MSP BICOMPO 2X200ML-PDG",
+        "code_piece": "02130044",
+        "quantite_requise": 1,
+        "quantite_comptee": 1
+      }
+    ]
+  },
+  "mJgUwh8iCWoqnkMRdQRa": {
+    "empId": "ETKI.0060201",
+    "kitId": "B82551 4C TRANSILIEN1 (2e série)_K22 00990648",
+    "nom_du_kit": "KIT TRAIT MEC PORTE SIMPLE",
+    "engin": "B82551 4C TRANSILIEN1 (2e série)",
+    "code_kit": "K22 00990648",
+    "code_contenant": "052080000001143611",
+    "statut": "Incomplet",
+    "observation": "",
+    "verificateur_email": "michael.frischherz@sncf.fr",
+    "timestamp": "2026-05-27T17:24:20.212Z",
+    "detail_verification": [
+      {
+        "nom": "KIT M AGC TR MEC PORTES SIMPLE",
+        "code_piece": "00990648",
+        "quantite_requise": 1,
+        "quantite_comptee": 0
+      }
+    ]
+  },
+  "orGbPHVWLA3q3QyjtAYu": {
+    "empId": "ETKI.0140201",
+    "kitId": "mikkkkegin_testmika",
+    "nom_du_kit": "test",
+    "engin": "mikkkkegin",
+    "code_kit": "testmika",
+    "code_contenant": "052080000001338734",
+    "statut": "Incomplet",
+    "observation": "",
+    "verificateur_email": "michael.frischherz@sncf.fr",
+    "timestamp": "2026-05-27T18:35:12.182Z",
+    "detail_verification": [
+      {
+        "nom": "CARNETETIQUETTES ACCES INTERDI",
+        "code_piece": "00132717",
+        "quantite_requise": 1,
+        "quantite_comptee": 0
+      }
+    ],
+    "reprise_date": "2026-06-04T08:10:38.654Z",
+    "reprise_close": true
+  },
+  "pJDdKCxj9p2HXHHlAEXX": {
+    "empId": "ETKI.0060201",
+    "kitId": "B82551 4C TRANSILIEN1 (2e série)_K22 00990648",
+    "nom_du_kit": "KIT TRAIT MEC PORTE SIMPLE",
+    "engin": "B82551 4C TRANSILIEN1 (2e série)",
+    "code_kit": "K22 00990648",
+    "code_contenant": "052080000001143611",
+    "statut": "Incomplet",
+    "observation": "",
+    "verificateur_email": "michael.frischherz@sncf.fr",
+    "timestamp": "2026-05-27T17:23:20.466Z",
+    "detail_verification": [
+      {
+        "nom": "KIT M AGC TR MEC PORTES SIMPLE",
+        "code_piece": "00990648",
+        "quantite_requise": 1,
+        "quantite_comptee": null
+      }
+    ]
+  },
+  "tyNTuLV4qXZWf9JzdXXC": {
+    "empId": "ETKI.0090406",
+    "kitId": "B82551 4C TRANSILIEN1 (2e série)_K22OPMV20",
+    "nom_du_kit": "KIT PORTE WC LSH",
+    "engin": "B82551 4C TRANSILIEN1 (2e série)",
+    "code_kit": "K22OPMV20",
+    "code_contenant": "052080000001080655",
+    "statut": "Conforme",
+    "observation": "",
+    "verificateur_email": "michael.frischherz@sncf.fr",
+    "timestamp": "2026-05-28T07:43:46.990Z",
+    "detail_verification": [
+      {
+        "nom": "VIS H, M8X25 - A2-70",
+        "code_piece": "01630571",
+        "quantite_requise": 4,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "VIS H, M6X16 - A2-70",
+        "code_piece": "01630618",
+        "quantite_requise": 8,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "VIS, FHC M5-45 - A2-70",
+        "code_piece": "01630725",
+        "quantite_requise": 1,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "ECROU H, M10 - A4-80",
+        "code_piece": "01670437",
+        "quantite_requise": 6,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "ECROU HM FR FP2, M10 - A2-70",
+        "code_piece": "01671288",
+        "quantite_requise": 2,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "RONDELLE PLATE L 10 - A2 200HV",
+        "code_piece": "01680468",
+        "quantite_requise": 6,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "RONDELLE CUVETTE M5",
+        "code_piece": "01683051",
+        "quantite_requise": 1,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "RONDELLE CS 6-14-1,3 - A2",
+        "code_piece": "01894889",
+        "quantite_requise": 16,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "RONDELLE PLATE M10",
+        "code_piece": "04820461",
+        "quantite_requise": 2,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "ECROU HM FR M6 - A2-70 FP2",
+        "code_piece": "71675061",
+        "quantite_requise": 4,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "RONDELLE PLATE L 8  - A2 200HV",
+        "code_piece": "71684714",
+        "quantite_requise": 4,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "RONDELLE PLATE LARGE - 6 - A2",
+        "code_piece": "71684983",
+        "quantite_requise": 12,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "BUTEE DE PORTE",
+        "code_piece": "72354391",
+        "quantite_requise": 1,
+        "quantite_comptee": null
+      }
+    ]
+  },
+  "xhHZAJdSBCZrUTpxxWhO": {
+    "empId": "ETKI.0010101",
+    "kitId": "B82551 4C TRANSILIEN1 (2e série)_K22OPMV40",
+    "nom_du_kit": "KIT ELEC - TRAIT WC",
+    "engin": "B82551 4C TRANSILIEN1 (2e série)",
+    "code_kit": "K22OPMV40",
+    "code_contenant": "052080000001325174",
+    "statut": "Incomplet",
+    "observation": "fdfsjdfdskjhfd",
+    "verificateur_email": "michael.frischherz@sncf.fr",
+    "timestamp": "2026-06-05T06:51:58.998Z",
+    "detail_verification": [
+      {
+        "nom": "CABLE ENTRE BOITIER ET WC AGC",
+        "code_piece": "07380053",
+        "quantite_requise": 1,
+        "quantite_comptee": 1
+      },
+      {
+        "nom": "CONTACT FEMELLE 16/18 AWG",
+        "code_piece": "08740027",
+        "quantite_requise": 4,
+        "quantite_comptee": 0
+      },
+      {
+        "nom": "CONNECTEUR 4PTS FEMELLE BP-WC",
+        "code_piece": "08790432",
+        "quantite_requise": 2,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "CONNECTEUR 4PTS MALE  WAGO",
+        "code_piece": "08791412",
+        "quantite_requise": 2,
+        "quantite_comptee": null
+      },
+      {
+        "nom": "SONDE DE NIVEAU A FLOTTEUR",
+        "code_piece": "77380143",
+        "quantite_requise": 2,
+        "quantite_comptee": null
+      }
+    ]
+  }
+}
