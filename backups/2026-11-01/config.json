@@ -1,0 +1,113 @@
+{
+  "acces_modules": {
+    "frederic.perrot2@sncf.fr": {
+      "import": true,
+      "stats": true,
+      "historique": true,
+      "admin": true,
+      "prenom": "Frederic",
+      "terrain": true,
+      "reprises": true,
+      "nom": "Perrot"
+    },
+    "pierre.bedjiah@sncf.fr": {
+      "nom": "Bedjiah",
+      "reprises": true,
+      "terrain": false,
+      "stats": false,
+      "prenom": "Pierre",
+      "admin": false,
+      "historique": false
+    },
+    "christophe.ether@sncf.fr": {
+      "import": true,
+      "stats": true,
+      "prenom": "Christophe",
+      "admin": false,
+      "historique": true,
+      "reprises": true,
+      "terrain": true,
+      "nom": "Ether"
+    },
+    "remi.boucher@sncf.fr": {
+      "reprises": true,
+      "terrain": false,
+      "nom": "Boucher",
+      "historique": false,
+      "admin": false,
+      "prenom": "Remi",
+      "stats": false
+    },
+    "mahe.chambeiron@sncf.fr": {
+      "terrain": true,
+      "reprises": true,
+      "nom": "Chambeiron",
+      "admin": true,
+      "historique": true,
+      "prenom": "Mahe",
+      "stats": true,
+      "import": true
+    },
+    "cyrille.defix@sncf.fr": {
+      "import": true,
+      "stats": true,
+      "historique": true,
+      "prenom": "Cyrille",
+      "admin": true,
+      "terrain": true,
+      "reprises": true,
+      "nom": "Defix"
+    },
+    "michael.frischherz@sncf.fr": {
+      "historique": true,
+      "admin": true,
+      "prenom": "Michael",
+      "stats": true,
+      "import": true,
+      "nom": "Frischherz",
+      "terrain": true,
+      "reprises": true
+    },
+    "ami.kane@sncf.fr": {
+      "terrain": true,
+      "reprises": true,
+      "stats": true,
+      "historique": true,
+      "admin": false,
+      "import": true
+    },
+    "vincent.torterat@sncf.fr": {
+      "nom": "Torterat",
+      "reprises": true,
+      "terrain": true,
+      "stats": true,
+      "prenom": "Vincent",
+      "admin": false,
+      "historique": true,
+      "import": true
+    },
+    "angelique.villoury@sncf.fr": {
+      "historique": false,
+      "admin": false,
+      "prenom": "Angelique",
+      "stats": false,
+      "terrain": false,
+      "reprises": true,
+      "nom": "Villoury"
+    },
+    "gerald.blumenfeld@sncf.fr": {
+      "reprises": false,
+      "terrain": true,
+      "nom": "Blumenfeld",
+      "stats": false,
+      "admin": false,
+      "prenom": "Gerald",
+      "historique": false
+    }
+  },
+  "secrets": {
+    "github_token": "[REDACTED_GITHUB_TOKEN]",
+    "token_mis_a_jour_le": "2026-05-19T19:05:18.234Z",
+    "token_mis_a_jour_par": "michael.frischherz@sncf.fr"
+  }
+}
